@@ -135,5 +135,9 @@ nav{
     justify-content: space-evenly;
 }
 footer{
+    background-color: black;
+    color: white;
+    padding: 120px;
     margin-top: 150px;
+    text-align: center;
 }
