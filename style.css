@@ -77,6 +77,10 @@ nav{
 .sub-paragraph{
     margin-top: 25px;
 }
+#exper-img{
+    width: 600px;
+    margin-left: 100px;
+}
 #exper-btn{
     background-color: #FF900E;
     color: white;
@@ -93,4 +97,20 @@ nav{
 }
 #exper-text{
     font-size: 25px;
+}
+.main-section-3{
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.fact-section{
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.fact-opn{
+    border-radius: 5px;
+    padding: 10px;
+    border: solid 1px #FF900E;
 }
