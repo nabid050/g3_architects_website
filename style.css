@@ -12,6 +12,7 @@ nav{
     justify-content: space-between;
     margin: 40px 50px;
 }
+
 .nav-link a{
     margin-left: 10px;
     text-decoration: none;
@@ -20,7 +21,7 @@ nav{
     margin-top: 70px;
     text-align: center;
 }
-#explore-btn{
+.explore-btn{
     margin-top: 18px;
     background-color: #FF900E;
     color: white;
@@ -35,4 +36,22 @@ nav{
     margin-left: auto;
     margin-right: auto;
     
+}
+.main-section-1{
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+}
+.main-section-imgs{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+.feature-area{
+    margin-left: 35px;
+    margin-top: 200px;
+}
+#feature-text{
+    margin-top: 10px;
 }
