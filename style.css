@@ -14,6 +14,7 @@ nav{
 }
 
 .nav-link a{
+    color: black;
     margin-left: 10px;
     text-decoration: none;
 }
@@ -52,6 +53,44 @@ nav{
     margin-left: 35px;
     margin-top: 200px;
 }
-#feature-text{
+#exep-text-1{
+    color:#727272;
+}
+#exep-text-2{
+    color: #FF900E;
+}
+.feature-text{
     margin-top: 10px;
+}
+.main-section-2{
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+}
+#border-text{
+    border-left: solid 5px #FF900E;
+}
+.sub-text{
+    margin-top: 100px;
+}
+.sub-paragraph{
+    margin-top: 25px;
+}
+#exper-btn{
+    background-color: #FF900E;
+    color: white;
+    padding: 15px;
+    position: relative;
+    margin-top: -65px;
+    margin-right: 5px;
+    border-radius: 8px;
+    border: none;
+}
+#year-text{
+    font-weight: 700;
+    font-size: 55px; 
+}
+#exper-text{
+    font-size: 25px;
 }
